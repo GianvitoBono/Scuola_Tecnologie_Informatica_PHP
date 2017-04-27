@@ -15,4 +15,5 @@
   else
     echo 'Errore: ' . mysqli_error($conn);
 
+  echo 'Prova per commit';
 ?>
